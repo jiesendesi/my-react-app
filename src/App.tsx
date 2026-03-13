@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div>
         {/* 这里以后可以换成你的真实头像链接 */}
-        <img src="https://r2.image-upload.app/tyImg/1enC7R86c.png" className="logo" alt="My Avatar" style={{ borderRadius: '50%' }} />
+        <img src="https://r2.image-upload.app/tyImg/pX0jtoIl.jpg" className="logo" alt="My Avatar" style={{ borderRadius: '50%' }} />
       </div>
       
       <h1>Jiesendesi 的个人主页</h1>
